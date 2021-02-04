@@ -28,7 +28,7 @@ A XY Inc é uma empresa especializada na produção de excelentes receptores GPS
   
  ## Teste ⚙️
  
-   Você pode executar em qualquer client HTTP. Uma Collection de exemplo esta disponivel aqui: 
+   Você pode executar em qualquer client HTTP. Uma Collection de exemplo esta disponivel aqui: https://github.com/diegofortunato/xy-inc/blob/main/XY-Inc.postman_collection.json
    
    Você pode tambem utilizar os seguintes Curls para realizar as chamadas disponiveis:
 
