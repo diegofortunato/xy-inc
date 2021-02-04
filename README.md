@@ -1,15 +1,15 @@
-# XY-Inc APP
+<h1 align="center"> # XY-Inc APP </h1>
 
 A XY Inc é uma empresa especializada na produção de excelentes receptores GPS. A nossa missão foi desenvolver um dispositivo inovador que ira auxiliar pessoas na localização de ponto de interesse (POIs).
 
- Stack
+ ## Stack
  
   - Kotlin
   - Spring Boot
   - Postgres
   - Docker
   
- Build
+ ## Build
  
   Certifique que você tenha o Docker instalado em sua maquina e rode os seguintes comandos:
   
@@ -21,13 +21,14 @@ A XY Inc é uma empresa especializada na produção de excelentes receptores GPS
   
   Pronto, o projeto estara disponivel em: localhost:8080
   
- Execução
+ ## Execução
  
    Você pode executar em qualquer client HTTP. Uma Collection de exemplo esta disponivel aqui: 
    
    Você pode tambem utilizar os seguintes Curls para realizar as chamadas disponiveis:
-   
-   curl -X POST \
+
+
+curl -X POST \
   http://localhost:8080/points \
   -H 'Content-Type: application/json' \
   -H 'Postman-Token: a90eea72-fc3a-48bf-9524-062ddef2cb63' \
@@ -40,19 +41,20 @@ A XY Inc é uma empresa especializada na produção de excelentes receptores GPS
 	}
 }'
 
+
 curl -X GET \
   http://localhost:8080/points \
   -H 'Postman-Token: 362d7bf3-a5cd-4211-883b-299fd562cadc' \
   -H 'cache-control: no-cache'
-  
-  
+ 
+ 
   curl -X GET \
   'http://localhost:8080/points/distance?coordinateX=10&coordinateY=15&distance=10' \
   -H 'Postman-Token: c6819857-4372-4c9d-ab66-1773877c65e3' \
   -H 'cache-control: no-cache'
   
   
- Documetação
+ ## Documetação
  
   Você pode encontrar a documentação do projeto aqui: 
   
