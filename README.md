@@ -5,7 +5,7 @@
 A XY Inc é uma empresa especializada na produção de excelentes receptores GPS. A nossa missão foi desenvolver um dispositivo inovador que ira auxiliar pessoas na localização de ponto de interesse (POIs).
 
 
- ## Stack
+ ## Stack 💻
  
   - Kotlin
   - Spring Boot
@@ -13,7 +13,7 @@ A XY Inc é uma empresa especializada na produção de excelentes receptores GPS
   - Docker
   
   
- ## Build
+ ## Build  🚀
  
   Certifique que você tenha o Docker instalado em sua maquina e rode os seguintes comandos:
   
@@ -26,7 +26,7 @@ A XY Inc é uma empresa especializada na produção de excelentes receptores GPS
   Pronto, o projeto estara disponivel em: `localhost:8080`
   
   
- ## Teste
+ ## Teste ⚙️
  
    Você pode executar em qualquer client HTTP. Uma Collection de exemplo esta disponivel aqui: 
    
@@ -67,12 +67,12 @@ A XY Inc é uma empresa especializada na produção de excelentes receptores GPS
       -H 'cache-control: no-cache'
 
   
- ## Documetação
+ ## Documetação 📝
  
   Você pode encontrar a documentação do projeto aqui: 
   
   
- ## Autor
+ ## Autor 🦸
  
  - Diego Fortunato Candido
   
