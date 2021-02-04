@@ -69,10 +69,10 @@ A XY Inc é uma empresa especializada na produção de excelentes receptores GPS
   
  ## Documetação 📝
  
-  Você pode encontrar a documentação do projeto aqui: 
+  Você pode encontrar a documentação do projeto aqui: http://localhost:8080/swagger-ui.html
   
   
  ## Autor 🦸
  
- - Diego Fortunato Candido
+ Diego Fortunato Candido
   
